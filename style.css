@@ -771,9 +771,7 @@ h4 {
 .black-background {
     /* background-color: rgba(165, 147, 99, 0.7); */
     /* background-color: rgba(165, 147, 99, 0.9); */
-    /* background-color: rgba(0, 0, 0, 0.6); */
-    background: radial-gradient(circle, rgba(0,0,0,.6) 30%, rgba(0,0,0,0.7469581582633054) 70%);
-
+    background: radial-gradient(circle, rgba(0,0,0,1) 30%, rgba(0,0,0,0.7469581582633054) 70%);
     padding: 40px 40px 40px 40px;
 }
 
